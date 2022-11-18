@@ -50,7 +50,7 @@ document.write(calculator(son1, amal, son2));
 // }
 
 // calc(son1 , amal , son2);
-// console.log(calc(son1, amal, son2));
+// document.write(calculator(son1, amal, son2));
 
 // ////////////////////////////////////////////////////////////////
 
@@ -58,19 +58,19 @@ document.write(calculator(son1, amal, son2));
 
 // switch(amal){
 //   case "+":
-//    console.log(son1 + son2);
+//    document.write(son1 + son2);
 //    break;
 //   case "-":
-//    console.log(son1 - son2);
+//    document.write(son1 - son2);
 //    break;
 //   case "*":
-//    console.log(son1 * son2);
+//    document.write(son1 * son2);
 //    break
 //   case "/":
-//    console.log(son1 / son2);
+//    document.write(son1 / son2);
 //    break;
 //   default:
-//    console.log("Siz xato buyruq yubordingiz! Bunday buyruq topilmadi! 😑")
+//    document.write("Siz xato buyruq yubordingiz! Bunday buyruq topilmadi! 😑")
 //    break;
 // }
 
